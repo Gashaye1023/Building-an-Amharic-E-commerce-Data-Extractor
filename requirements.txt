@@ -1,0 +1,5 @@
+telethon
+pandas
+opencv-python
+Pillow
+pytesseract
