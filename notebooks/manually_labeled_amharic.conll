@@ -1,0 +1,23 @@
+በኤሌክትሪክየሚሰራ	O
+ለቤት	O
+መልካም	O
+መዓዛን	B-PRODUCT
+የሚሰጥ	I-PRODUCT
+ዋጋ፦	B-LOC
+ብር	I-LOC
+ውስን	B-PRICE
+ፍሬ	I-PRICE
+ነው	O
+ያለን	B-PRODUCT
+አድራሻ	I-PRODUCT
+መገናኛመሰረትደፋርሞልሁለተኛፎቅ	B-LOC
+ቢሮ	I-LOC
+ቁ	B-PRICE
+በ	I-PRICE
+ለማዘዝ	O
+ይጠቀሙ	B-PRODUCT
+ለተጨማሪ	I-PRODUCT
+ማብራሪያ	B-LOC
+የቴሌግራም	I-LOC
+ገፃችን	B-PRICE
+
