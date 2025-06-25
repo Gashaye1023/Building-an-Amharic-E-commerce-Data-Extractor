@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/g/10/week 4/Building-an-Amharic-E-commerce-Data-Extractor/.venv/bin/python3" "$0" "$@"
+'''exec' "/home/g/10/week 4/Building-an-Amharic-E-commerce-Data-Extractor/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
